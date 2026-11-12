@@ -118,3 +118,23 @@ MongoDB is used to store:
 Amit Yadav
 
 GitHub: https://github.com/yadavamit4git
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Jobs Listing
+![Jobs Listing](screenshots/jobs.png)
+
+### Job Details
+![Job Details](screenshots/job-details.png)
+
+### Employer Dashboard
+![Employer Dashboard](screenshots/employer-dashboard.png)
+
+### Candidate Dashboard
+![Candidate Dashboard](screenshots/candidate-dashboard.png)
+
+### Applications
+![Applications](screenshots/applications.png)
