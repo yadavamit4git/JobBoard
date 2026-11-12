@@ -119,22 +119,16 @@ Amit Yadav
 
 GitHub: https://github.com/yadavamit4git
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-### Home Page
+### 1. Home Page
 ![Home Page](screenshots/home.png)
 
-### Jobs Listing
-![Jobs Listing](screenshots/jobs.png)
+### 2. Find Jobs Page
+![Find Jobs](screenshots/find-job.png)
 
-### Job Details
-![Job Details](screenshots/job-details.png)
-
-### Employer Dashboard
-![Employer Dashboard](screenshots/employer-dashboard.png)
-
-### Candidate Dashboard
+### 3. Candidate Dashboard
 ![Candidate Dashboard](screenshots/candidate-dashboard.png)
 
-### Applications
-![Applications](screenshots/applications.png)
+### 4. Employer Dashboard
+![Employer Dashboard](screenshots/employer-dashboard.png)
